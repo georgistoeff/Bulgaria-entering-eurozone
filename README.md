@@ -6,5 +6,3 @@
 
 [Notion версия на архива](https://imaginary-reptile-766.notion.site/1ff32d1bcfdb80bab825dbf1ca6d49fd)
 
-[Тематичен индекс](./index.md)
-
