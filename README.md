@@ -7,4 +7,4 @@ Introductory note (in Bulgarian)
 
 Thematic index (for search and navigation)
 
-External link to Notion site with categorized content
+External link to Notion site with categorized content [Notion версия на архива](https://imaginary-reptile-766.notion.site/1ff32d1bcfdb80bab825dbf1ca6d49fd)
