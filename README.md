@@ -1,7 +1,7 @@
 Eurozone Archive
 This repository contains the full archive of a 14-week independent public information campaign by Georgi Stoeff about Bulgaria’s accession to the euro area (Feb–May 2025). All texts may be freely shared or reused with attribution.
 
-20 original articles in Bulgarian + Introductory note  📄 [PDF in Bulgarian](https://github.com/GeorgiStoeff/eurozone-archive/raw/main/pdf/intro.pdf)
+20 original articles in Bulgarian + Introductory note  📄 [PDF in Bulgarian]([https://github.com/GeorgiStoeff/eurozone-archive/raw/main/pdf/intro.pdf]
 
 
 Thematic index (for search and navigation)
